@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "stagofzz",
+    "password": "Im_7RCXzMPpZezo2YGTA1HegcVrAO6Uw",
+    "database": "stagofzz",
+    "host": "ziggy.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "stagofzz",
+    "password": "Im_7RCXzMPpZezo2YGTA1HegcVrAO6Uw",
+    "database": "stagofzz",
+    "host": "ziggy.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
